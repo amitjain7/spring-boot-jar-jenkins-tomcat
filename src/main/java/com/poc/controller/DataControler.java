@@ -10,4 +10,7 @@ public class DataControler {
   public void change2(){
     System.out.println("check");
   }
+  public void change3(){
+    System.out.println("check");
+  }
 }
