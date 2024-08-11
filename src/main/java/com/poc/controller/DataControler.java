@@ -7,4 +7,7 @@ public class DataControler {
   public void change1(){
     System.out.println("check");
   }
+  public void change2(){
+    System.out.println("check");
+  }
 }
