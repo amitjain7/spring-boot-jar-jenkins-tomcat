@@ -13,4 +13,11 @@ public class DataControler {
   public void change3(){
     System.out.println("check");
   }
+  public void change4(){
+    System.out.println("check");
+  }
+  public void change5(){
+    System.out.println("check");
+  }
+
 }
